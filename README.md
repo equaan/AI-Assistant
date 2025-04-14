@@ -105,8 +105,8 @@ Pull requests are welcome! If you'd like to contribute, please fork the repo and
 ## 📫 Contact
 
 For questions, feedback, or collaboration:  
-**Name**: *Mohd Hamza Arshad*  
-**Email**: *hamza.arshad@vit.edu.in*  
-**LinkedIn**: [Hamza](https://www.linkedin.com/in/frhamzaa/)
+**Name**: *Mohammad Equaan Kacchi*  
+**Email**: *equaan.kacchi@vit.edu.in*  
+**LinkedIn**: [Hamza](linkedin.com/in/mohammad-equaan-kacchi-4a8a49290)
 
 ---
