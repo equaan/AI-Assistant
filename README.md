@@ -107,6 +107,6 @@ Pull requests are welcome! If you'd like to contribute, please fork the repo and
 For questions, feedback, or collaboration:  
 **Name**: *Mohammad Equaan Kacchi*  
 **Email**: *equaan.kacchi@vit.edu.in*  
-**LinkedIn**: [Hamza](linkedin.com/in/mohammad-equaan-kacchi-4a8a49290)
+**LinkedIn**: [Equaan](https://www.linkedin.com/in/mohammad-equaan-kacchi-4a8a49290/)
 
 ---
